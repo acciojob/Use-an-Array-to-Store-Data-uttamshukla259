@@ -1,2 +1,2 @@
-let yourArray = ["hello", 5, true, null, "world"];
+let yourArray = ['string', 123, true, null, 'another string'];
 console.log(yourArray);
